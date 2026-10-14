@@ -1,2 +1,18 @@
-# Salesforce-Apex-Account-Creation
-**Description:**  This repository contains Salesforce Apex code to create Account records programmatically using Apex DML operations. It demonstrates how to create and insert Account records into Salesforce using the `Account` sObject and the `insert` statement.
+# Salesforce Apex Account Creation
+
+## Description
+
+A simple Salesforce Apex example demonstrating how to create and insert an Account record using a constructor and DML operation.
+
+
+## Concepts Covered
+
+* Apex Classes and Constructors
+* Account sObject
+* DML Insert Operation
+* System Debug Logs
+* `with sharing` Keyword
+
+## Purpose
+
+This project is created for Salesforce Apex practice and learning.
